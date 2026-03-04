@@ -1,13 +1,10 @@
-### **Bienvenue**
+# Bienvenue dans mon espace Data Analyst 🚀
 
-Cet espace est consacré à ma formation de data analyst.
+Je vous invite à découvrir mon parcours de **Data Analyst**, suivi entre **mars 2025 et avril 2026** sur la plateforme **OpenClassrooms**.
 
-J’ai suivi ce cursus entre mars 2025 et avril 2026 sur la plateforme de formation OpenClassrooms
+Durant cette formation, j’ai eu la chance d’être accompagné par un **mentor professionnel**, expert en analyse de données, qui m’a guidé pas à pas dans la réalisation de projets concrets.
 
-<p align="center">
-  <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/12207ca7-88e7-4973-b429-784a83b000aa" />
-</p>
+💡 **Ce que vous trouverez ici** :  
+Dans chaque répertoire, les **livrables des projets** que j’ai menés pour valider mes compétences, allant de l’analyse exploratoire de données à la création de tableaux de bord interactifs.
 
-Lors de ce cursus j'ai bénéficié de l'appui d'un mentor professionnel de l'analyse de donnée qui m'a guidé dans l'exécution de l'ensemble de ces projets.
-
-Dans les différents répertoires, vous trouverez les livrables réalisés pour la validation de chaque projet.
+Chaque projet reflète ma capacité à transformer des données brutes en **insights actionnables**, un savoir-faire clé pour tout analyste moderne.
