@@ -28,8 +28,8 @@ L’objectif : acquérir les compétences clés pour **transformer des données 
 | Catégorie | Outils |
 |-----------|-------|
 | Analyse & Manipulation | Python (pandas, numpy), SQL |
-| Visualisation | Matplotlib, Seaborn, Power BI, Tableau |
-| Autres | Excel, Git/GitHub, Notion |
+| Visualisation | Python (matplotlib, deaborn), Power BI, Knime |
+| Autres | Excel, GitHub |
 
 ---
 
