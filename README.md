@@ -1,23 +1,19 @@
 # 🚀 Bienvenue dans mon espace Data Analyst
 
-Je vous invite à découvrir mon parcours de **Data Analyst**, suivi entre **mars 2025 et avril 2026** sur la plateforme **OpenClassrooms**.
-
-<div align="center">
-  <img width="200" height="100" alt="Logo OpenClassrooms" src="https://github.com/user-attachments/assets/5fe240bd-01ef-44fb-baee-9f516335b6f5" />
-</div>
+Je vous invite à découvrir mon parcours de **Consultant Data Analyst pour ESNDATA**.
 
 ---
 
-## 🎯 À propos de la formation
+## 🎯 À propos de mon parcours avec ESNDATA
 
-Durant cette formation, j’ai eu la chance d’être accompagné par un **mentor professionnel**, expert en analyse de données, qui m’a guidé pas à pas dans la réalisation de projets concrets.  
-L’objectif : acquérir les compétences clés pour **transformer des données brutes en insights actionnables**.
+Depuis que j'ai rejoint ce cabinet spécialisé dans le consulting aux entreprises concernant le domaine des données, j’ai pu mettre à profit l'ensemble des compétences acquises lors de mon cursus de formation en analyse de données.  
+ESN Data m'a permis de réaliser une dizaine de missions différentes auprès d'entreprises sollicitant ses services en matière de données.
 
 ---
 
 ## 💡 Ce que vous trouverez ici
 
-- **Projets pratiques** : chaque répertoire contient les livrables réalisés pour valider les compétences acquises.  
+- **Projets réalisés lors de mes missions** : chaque répertoire contient les livrables réalisés pour mener à bien ses missions.  
 - **Compétences développées** : analyse exploratoire, visualisation, tableaux de bord interactifs, nettoyage et manipulation de données.  
 - **Méthodologie** : approche rigoureuse, utilisation d’outils modernes (Python, SQL, Excel, Power BI/Tableau) et bonnes pratiques de data storytelling.
 
@@ -33,9 +29,13 @@ L’objectif : acquérir les compétences clés pour **transformer des données 
 
 ---
 
-Chaque projet reflète ma capacité à résoudre des problématiques concrètes et à produire des **insights pertinents** pour la prise de décision.  
+Chaque mission reflète ma capacité à résoudre des problématiques concrètes et à produire des **insights pertinents** pour la prise de décision.  
 
 ---
+
+<img width="695" height="230" alt="image" src="https://github.com/user-attachments/assets/9ce78abc-253a-47ad-b0c7-e9130a9bab68" />
+
+
 
 <div align="center">
   Merci de votre visite ! 👋
