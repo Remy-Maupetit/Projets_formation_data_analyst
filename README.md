@@ -48,7 +48,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ## 📋 Liste des missions réalisées
 
-👉 Clique sur une mission pour accéder au projet :
+👉 Clique sur une mission pour accéder aux livrables réalisés :
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)  
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
