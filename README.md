@@ -48,17 +48,18 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ## 📋 Liste des missions réalisées
 
-👉 Clique ici pour accéder aux projets :  
-Faire une analyse des ventes de e commerce  **Le Grand Marché  Commerce**
-Réaliser un étude de santé publique **FAO Institutionnel**
-Créer et utiliser une base de données  **Laplace Immo  Immobilier**
-Optimiser la gestion d'une boutique **bottleneck  Commerce**
-Création d'un dashboard visualisant l'avancement de projets **Sanitotal Santé**
-Analyse de l'égalité Femmes-Hommes en respect du RGPD **ESN DATA Ressource Humaine**
-Analyse des ventes d'une librairie **Librairie Lapage Commerce**
-Etude sur l'eau potable  **DWFA ONG**
-Etude de Marché **La Poule qui Chante  Agroalimentaire**
-Détection de faux billets  **ONCFM  Institutionnel**
+👉 Clique sur une mission pour accéder au projet :
+
+- 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une analyse_des_ventes_pour_e_commerce)  
+- 🌍 [Étude de santé publique – *FAO*](./fao)  
+- 🏢 [Création et gestion d'une base de données – *Laplace Immo*](./laplace-immo)  
+- 🧃 [Optimisation de la gestion d'une boutique – *Bottleneck*](./bottleneck)  
+- 📊 [Dashboard de suivi de projets – *Sanitotal*](./sanitotal)  
+- ⚖️ [Analyse de l’égalité Femmes-Hommes (RGPD) – *ESN DATA*](./esn-data-rh)  
+- 📚 [Analyse des ventes – *Librairie Lapage*](./librairie-lapage)  
+- 💧 [Étude sur l’eau potable – *DWFA*](./dwfa)  
+- 🐔 [Étude de marché – *La Poule qui Chante*](./poule-qui-chante)  
+- 💶 [Détection de faux billets – *ONCFM*](./oncfm)
 
 ---
 
