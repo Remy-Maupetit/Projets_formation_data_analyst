@@ -51,7 +51,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 👉 Clique sur une mission pour accéder au projet :
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)  
-- 🌍 [Étude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
+- 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)  
 - 🧃 [Optimisation des données boutique – *Bottleneck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)  
