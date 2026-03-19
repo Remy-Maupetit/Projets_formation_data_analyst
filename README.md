@@ -48,7 +48,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ## 📋 Les missions réalisées
 
-👉 Clique sur une mission pour accéder aux livrables réalisés :
+👉 Cliquez sur une mission pour accéder aux livrables réalisés :
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
   
