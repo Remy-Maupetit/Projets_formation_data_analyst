@@ -46,11 +46,15 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ---
 
-## 📋 Liste des missions réalisées
+## 📋 Les missions réalisées
 
 👉 Clique sur une mission pour accéder aux livrables réalisés :
 
-- 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)  
+- 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
+  
+  * Alimentation et amélioraton d'un tableau de suivi au format Excel
+  * Production d'un rapport d'analyse des ventes de l'entreprise **Le Grand Marché**
+    
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)  
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
