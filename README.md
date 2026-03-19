@@ -60,7 +60,11 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
   * Notebooks d'exploration de données issues de la FAO (Python et PDF)
   * Rapport d'étude sur l'alimentation dans le monde (PowerPoint)
 
-- 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)  
+- 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
+
+  * Dictionnaire des données (Excel)
+  * Support de présentation de création et d'utilisation d'un base de données avec SQL (PowerPoint)
+  
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)  
 - ⚖️ [Égalité Femmes-Hommes (RGPD) – *ESN*](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)
