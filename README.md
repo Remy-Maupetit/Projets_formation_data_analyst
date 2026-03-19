@@ -36,7 +36,7 @@ Chaque répertoire contient les livrables produits pour répondre aux besoins de
 |----------|--------|
 | Analyse & manipulation | Python (pandas, numpy), SQL |
 | Visualisation | matplotlib, seaborn, Power BI, Knime |
-| Autres | Excel, GitHub |
+| Autres | Excel, GitHub, PowerPoint |
 
 ---
 
@@ -55,7 +55,11 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
   * Tableau de suivi mensuel au format Excel
   * Rapport d'analyse des ventes
     
-- 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)  
+- 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)
+
+  * Notebooks d'exploration de données issues de la FAO (Python et PDF)
+  * Rapport d'étude sur l'alimentation dans le monde (PowerPoint)
+
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)  
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)  
