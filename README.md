@@ -89,11 +89,17 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 - 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)
 
   * Tableau de Bord de l'accès à l'eau des populations dans le monde [Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/63fbb445-4ce0-44ed-9928-8708434244fa/ede2c21bb80076bdfc3c?experience=power-bi)
-
   * Support de présentation de l'étude sur l'accès à l'eau dans le monde (PDF) 
 
-- 🐔 [Étude de marché – *La Poule qui Chante*](./P11_Produire_une_étude_de_marché_avec_python)  
+- 🐔 [Étude de marché – *La Poule qui Chante*](./P11_Produire_une_étude_de_marché_avec_python)
+
+  * Notebook de preparation et d'anaykyse exploratoire des données (Python)
+  * Notebook de clustering et de visualisation des données (Python)
+  * Support de présentation de l'étude de marché (PDF)
+  
 - 💶 [Détection de faux billets – *ONCFM*](./P12_Détecter_des_faux_billets_avec_python)
+
+
 ---
 
 ## 🙏 Merci de votre visite !
