@@ -88,4 +88,4 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 ## 🙏 Merci de votre visite !
 
-N'hésitez pas à explorer les projets et à me contacter pour échanger 👋
+N'hésitez pas à explorer les livrables et à me contacter pour échanger 👋
