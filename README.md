@@ -69,7 +69,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
   * Support de présentation d'optimisation des données et d'analyse commerciale(PDF)
   * Notebook d'exploration et d'analyse des données(Python)
-     
+    
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)
   
   * Tableau de bord de suivi de projets[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi)
