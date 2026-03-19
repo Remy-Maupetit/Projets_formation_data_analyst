@@ -70,6 +70,11 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
   
   * Tableau de bord de suivi de projets[Lien vers Tableau de Bord](https://app.powerbi.com/groups/me/reports/e6dac014-2b15-430d-a2fe-362fa5e7e9e4/9d5075050703e9965289?experience=power-bi) 
 - ⚖️ [Égalité Femmes-Hommes (RGPD) – *ESN*](./P08_Analyser_des_indicateurs_de_l_égalité_femmes_hommes_en_respect_du_rgpd)
+
+  * Support de présentation de l'Index d'égalité Femmes-Hommes (PDF)
+  * Fichier données salariés anonymisées (CSV)
+  * Workflow Knime de traitements et d'analyse des données ( A télécharger)
+
 - 📚 [Analyse ventes librairie – *Librairie Lapage*](./P09_Analyser_les_ventes_d_une_librairie_avec_python)  
 - 💧 [Étude eau potable – *DWFA*](./P10_Faire_une_etude_sur_eau_potable)  
 - 🐔 [Étude de marché – *La Poule qui Chante*](./P11_Produire_une_étude_de_marché_avec_python)  
