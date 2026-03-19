@@ -101,7 +101,7 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
   * Notebook de préparation de données, d'utilisations et de comparaisons d'algorithmes de classification (Python)
   * Notebook d'utilsation d'un script de détection de faux billets (Python)
-  * Support de présentation sur la détection des faux billets (PDF)
+  * Support de présentation sur la création et l'utilisation d'un algorithme de détection des faux billets (PDF)
 
 ---
 
