@@ -52,18 +52,18 @@ Chaque mission reflète ma capacité à analyser des problématiques concrètes 
 
 - 🛒 [Analyse des ventes e-commerce – *Le Grand Marché*](./P02_Faire_une_analyse_des_ventes_pour_e_commerce)
   
-  * Tableau de suivi mensuel au format Excel
-  * Rapport d'analyse des ventes
+  * Tableau de suivi mensuel(Excel)
+  * Rapport d'analyse des ventes (PDF)
     
 - 🌍 [Etude de santé publique – *FAO*](./P04_Réaliser_une_étude_de_santé_publique_avec_python)
 
   * Notebooks d'exploration de données issues de la FAO (Python et PDF)
-  * Rapport d'étude sur l'alimentation dans le monde (PowerPoint)
+  * Rapport d'étude sur l'alimentation dans le monde (PDF)
 
 - 🏢 [Base de données immobilière – *Laplace Immo*](./P05_Créer_et_utiliser_une_base_de_données_immobilière_avec_SQL)
 
   * Dictionnaire des données (Excel)
-  * Support de présentation de création et d'utilisation d'un base de données avec SQL (PowerPoint)
+  * Support de présentation de création et d'utilisation d'une base de données avec SQL (PDF)
   
 - 🧃 [Optimisation des données boutique – *BottleNeck*](./P06_Optimiser_la_gestion_des_données_d'une_boutique_avec_python)  
 - 📊 [Dashboard Power BI – *Sanitotal*](./P07_Créer_un_tableau_de_bord_dynamique_avec_power_bi)  
