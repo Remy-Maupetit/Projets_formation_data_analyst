@@ -1,13 +1,13 @@
 # 🚀 Mon parcours de formation Data Analyst
 
-Bienvenue dans l'espace dédié à mon parcours de formation **Data Analyst** avec **OpemClassrooms**.  
+Bienvenue dans l'espace dédié à mon parcours de formation **Data Analyst** avec **OpenClassrooms**.  
 Découvrez les projets réalisés, les livrables produits, et les compétences développées.
 
 ---
 
 ## 🎯 À propos de la Formation Data Analyst
 
-Le cursus de formation  **Data Analyst** se compose de 11 Projets variés, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
+Le cursus de formation  **Data Analyst** se compose de Projets variés, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
 Chaque projet m’a permis de produire des livrables concrets et utiles à la prise de décision.
 
 ---
