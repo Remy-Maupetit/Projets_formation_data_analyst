@@ -18,7 +18,7 @@ Pour mener à bien ce projet j'ai :
 
 ## 🧭 Contexte
 
-**ONCFM**, l'organisation nationale de lutte contre le faux monnayage souhaite mettre en place des méthodes d'identifications de faux billets plus rapides, en utilisant une application de machine learning en testant différents algorithmes recommandés par l'agence européenne (EMV) en charge du faux monnayage.
+**ONCFM**, l'organisation nationale de lutte contre le faux monnayage souhaite mettre en place des méthodes d'identifications de faux billets plus rapides, en utilisant une application de machine learning.
 
 ---
 
@@ -44,7 +44,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 - Comparaison et choix du modèle le plus performant
 - Réalisation d'un pipeline pour exporter le modèle
 
-  [Voir le document](./Maupetit_Remy_1_notebook_012026)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/blob/main/P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_1_notebook_012026.ipynb)
   
 ---
 
@@ -52,7 +52,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
  
 - Script fonctionnel permettant de détecter les faux billets contenant le Pipeline avec le modèle le plus performant 
 
-  [Voir le document](./Maupetit_Remy_2_script_012026)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/blob/main/P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_2_script_012026.ipynb)
 
 ---
 
@@ -60,7 +60,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 
 - Document expliquant la démarche et les résultats des différents travaux sur les modèles et le choix du modèle.
   
-  [Voir le document](./Maupetit_Remy_3_Présentation_012026)
+  [Voir le document](https://github.com/Remy-Maupetit/Projets_realises_formation/raw/main/P12_Détecter_des_faux_billets_avec_python/Maupetit_Rémy_3_Présentation_012026.pdf)
 
 ---
 
