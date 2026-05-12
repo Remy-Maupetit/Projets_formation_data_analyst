@@ -1,14 +1,14 @@
-# 🚀 Mon parcours Data Analyst – ESN DATA
+# 🚀 Mon parcours de formation Data Analyst
 
-Bienvenue dans mon espace dédié à mon parcours de **Consultant Data Analyst** chez **ESNDATA**.  
-Découvrez mes missions, les livrables produits, et les compétences développées.
+Bienvenue dans l'espace dédié à mon parcours de formation **Data Analyst** avec **OpemClassrooms**.  
+Découvrez les projets réalisés, les livrables produits, et les compétences développées.
 
 ---
 
-## 🎯 À propos de mon parcours chez ESNDATA
+## 🎯 À propos de la Formation Data Analyst
 
-Depuis mon arrivée chez **ESNDATA**, j’ai réalisé une dizaine de missions variées, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
-Chaque mission m’a permis de produire des livrables concrets et utiles à la prise de décision.
+Le cursus de formation  **Data Analyst** se compose de 11 Projets variés, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
+Chaque projet m’a permis de produire des livrables concrets et utiles à la prise de décision.
 
 ---
 
@@ -37,7 +37,7 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 
 ---
 
-## 📋 Missions réalisées
+## 📋 Projets réalisées
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
@@ -125,6 +125,13 @@ Chaque mission m’a permis de produire des livrables concrets et utiles à la p
 </div>
 
 ---
+
+### 📚 Concevoir un portfolio de professionnel de la Data – *ESN DATA*
+**Documents :**
+
+
+[Voir le dossier](./P12_Détecter_des_faux_billets_avec_python)
+
 
 ## 🙏 Merci de votre visite !
 
