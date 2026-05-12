@@ -50,7 +50,7 @@ Determiner lequel algorythme préconnisé est le plus performant dans la détect
 
 ### 📈 – Script de détection des faux billets
  
-- Script fonctionnel permettant de détecter de faux billets contenant le Pipeline avec le modèle le plus performant 
+- Script fonctionnel permettant de détecter les faux billets contenant le Pipeline avec le modèle le plus performant 
 
   [Voir le document](./Maupetit_Rémy_2_script-012026)
 
