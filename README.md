@@ -7,7 +7,7 @@ Découvrez les projets réalisés, les livrables produits, et les compétences d
 
 ## 🎯 À propos de la Formation Data Analyst
 
-Le cursus de formation  **Data Analyst** se compose de Projets variés, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
+Le cursus de formation  **Data Analyst** se compose de projets variés, mettant en pratique mes compétences en **analyse de données, data visualisation et reporting**.  
 Chaque projet m’a permis de produire des livrables concrets et utiles à la prise de décision.
 
 ---
